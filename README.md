@@ -34,6 +34,6 @@ Merhaba, adım Arda ve 17 yaşındayım. Yazılım geliştirmeye 2 yıl önce Di
 ## 📈 Github Stats
 
 <p align="center">
-  <a href="https://github.com/xatiamarka/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatiamarka&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
+  <a href="https://github.com/xatiamarka/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatiamarka&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact"/></a>
   <a href="https://github.com/xatiamarka/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=xatiamarka&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=Xatia Marka%27s+Github+Statistics"/></a>
 </p>
