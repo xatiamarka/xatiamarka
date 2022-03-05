@@ -13,9 +13,9 @@ Merhaba, adım Arda ve 17 yaşındayım. Yazılım geliştirmeye 2 yıl önce Di
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/419516250784530442" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/xatiamarka" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~xatiamarka" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/419516250784530442" target="_blank"><img src="https://shields.io/badge/Xatiamarka-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/xatiamarka" target="_blank"><img src="https://shields.io/badge/Xatiamarka-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~xatiamarka" target="_blank"><img src="https://shields.io/badge/Xatiamarka-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/atl" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://xatiamarka.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
