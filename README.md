@@ -33,8 +33,7 @@ Merhaba, adım Arda ve 17 yaşındayım. Yazılım geliştirmeye 2 yıl önce Di
 
 ## 📈 Github Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xatiamarka&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatiamarka&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+<p align="center">
+  <a href="https://github.com/xatiamarka/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatiamarka&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
+  <a href="https://github.com/xatiamarka/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=xatiamarka&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=richardsistemler%27s+Github+Statistics"/></a>
+</p>
