@@ -7,7 +7,7 @@ Merhaba, adım Arda ve 17 yaşındayım. Yazılım geliştirmeye 2 yıl önce Di
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/419516250784530442" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/419516250784530442"></a>
+    <a href="https://discord.com/users/419516250784530442" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/712272819949404210"></a>
 </div>
 
 ## ⚡ Contact
